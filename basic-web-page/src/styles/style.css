@@ -31,3 +31,14 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+nav {
+    background-color: aqua;
+    color:black;
+    text-align: center;
+}
+
+.nav-li {
+    color: bisque;
+
+}
